@@ -5,5 +5,5 @@ All posts will save to and be served from the backend over a REST API.
 
 
 # Getting Started
-You will need NodeJs and npm installed.
+You will need NodeJs, npm, and Windows Terminal installed.
 Clone the repo and then run the "Runny Runner" shortcut.
